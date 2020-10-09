@@ -24,14 +24,14 @@
 
 ### Skip Directly to the Chapter's Notebooks:
 
- - <a href="https://github.com/JanMarcelKezmann/Building-ML-Pipelines-Notes/blob/main/Chapter%202/Chapter_2_Introduction_to_TensorFlow_Extended.ipynb">Chapter 2</a>
- - <a href="https://github.com/JanMarcelKezmann/Building-ML-Pipelines-Notes/blob/main/Chapter%203/Chapter_3_Data_Ingestion.ipynb">Chapter 3</a>
- - <a href="https://github.com/JanMarcelKezmann/Building-ML-Pipelines-Notes/blob/main/Chapter%204/Chapter_4_Data_Validation.ipynb">Chapter 4</a>
- - <a href="https://github.com/JanMarcelKezmann/Building-ML-Pipelines-Notes/blob/main/Chapter%205/Chapter_5_Data_Preprocessing.ipynb">Chapter 5</a>
- - <a href="https://github.com/JanMarcelKezmann/Building-ML-Pipelines-Notes/blob/main/Chapter%206/Chapter_6_Model_Training.ipynb">Chapter 6</a>
- - <a href="https://github.com/JanMarcelKezmann/Building-ML-Pipelines-Notes/blob/main/Chapter%207/Chapter_7_Model_Analysis_and_Validation.ipynb">Chapter 7</a>
- - <a href="https://github.com/JanMarcelKezmann/Building-ML-Pipelines-Notes/blob/main/Chapter%208/Chapter_8_Model_Deployment_with_TensorFlow_Serving.ipynb">Chapter 8</a>
- - <a href="https://github.com/JanMarcelKezmann/Building-ML-Pipelines-Notes/blob/main/Chapter%209/Chapter_9_Advanced_Model_Deployments_with_TensorFlow_Serving.ipynb">Chapter 9</a>
+ - <a href="https://github.com/JanMarcelKezmann/Building-ML-Pipelines-Notes/blob/main/Chapter%202/Chapter_2_Introduction_to_TensorFlow_Extended.ipynb">Chapter 2: Introduction to TensorFlow Extended</a>
+ - <a href="https://github.com/JanMarcelKezmann/Building-ML-Pipelines-Notes/blob/main/Chapter%203/Chapter_3_Data_Ingestion.ipynb">Chapter 3: Data Ingestion</a>
+ - <a href="https://github.com/JanMarcelKezmann/Building-ML-Pipelines-Notes/blob/main/Chapter%204/Chapter_4_Data_Validation.ipynb">Chapter 4: Data Validation</a>
+ - <a href="https://github.com/JanMarcelKezmann/Building-ML-Pipelines-Notes/blob/main/Chapter%205/Chapter_5_Data_Preprocessing.ipynb">Chapter 5: Data Preprocessing</a>
+ - <a href="https://github.com/JanMarcelKezmann/Building-ML-Pipelines-Notes/blob/main/Chapter%206/Chapter_6_Model_Training.ipynb">Chapter 6: Model Training</a>
+ - <a href="https://github.com/JanMarcelKezmann/Building-ML-Pipelines-Notes/blob/main/Chapter%207/Chapter_7_Model_Analysis_and_Validation.ipynb">Chapter 7: Model Analysis and Validation</a>
+ - <a href="https://github.com/JanMarcelKezmann/Building-ML-Pipelines-Notes/blob/main/Chapter%208/Chapter_8_Model_Deployment_with_TensorFlow_Serving.ipynb">Chapter 8: Model Deployment with TensorFlow Serving</a>
+ - <a href="https://github.com/JanMarcelKezmann/Building-ML-Pipelines-Notes/blob/main/Chapter%209/Chapter_9_Advanced_Model_Deployments_with_TensorFlow_Serving.ipynb">Chapter 9: Advanced Model Deployments with TensorFlow Serving</a>
  - <a href="">Chapter 10</a>
  - <a href="">Chapter 11</a>
  - <a href="">Chapter 12</a>
