@@ -32,7 +32,7 @@
  - <a href="https://github.com/JanMarcelKezmann/Building-ML-Pipelines-Notes/blob/main/Chapter%207/Chapter_7_Model_Analysis_and_Validation.ipynb">Chapter 7: Model Analysis and Validation</a>
  - <a href="https://github.com/JanMarcelKezmann/Building-ML-Pipelines-Notes/blob/main/Chapter%208/Chapter_8_Model_Deployment_with_TensorFlow_Serving.ipynb">Chapter 8: Model Deployment with TensorFlow Serving</a>
  - <a href="https://github.com/JanMarcelKezmann/Building-ML-Pipelines-Notes/blob/main/Chapter%209/Chapter_9_Advanced_Model_Deployments_with_TensorFlow_Serving.ipynb">Chapter 9: Advanced Model Deployments with TensorFlow Serving</a>
- - <a href="">Chapter 10</a>
+ - <a href="https://github.com/JanMarcelKezmann/Building-ML-Pipelines-Notes/blob/main/Chapter%2010/Chapter_10_Advanced_TensorFlow_Extended.ipynb">Chapter 10</a>
  - <a href="">Chapter 11</a>
  - <a href="">Chapter 12</a>
  - <a href="">Chapter 13</a>
