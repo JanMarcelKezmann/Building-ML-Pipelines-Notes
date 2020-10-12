@@ -36,7 +36,7 @@
  - <a href="https://github.com/JanMarcelKezmann/Building-ML-Pipelines-Notes/blob/main/Chapter%2011/Chapter_11_Pipelines_Part_1_Apache_Beam_and_Apache_Airflow.ipynb">Chapter 11: Pipelines Part 1: Apache Beam and Apache Airflow</a>
  - <a href="https://github.com/JanMarcelKezmann/Building-ML-Pipelines-Notes/blob/main/Chapter%2012/Chapter_12_Pipelines_Part_2_Kubeflow_Pipelines.ipynb">Chapter 12: Pipelines Part 2: Kubeflow Pipelines</a>
  - <a href="https://github.com/JanMarcelKezmann/Building-ML-Pipelines-Notes/blob/main/Chapter%2013/Chapter_13_Feedback_Loops.ipynb">Chapter 13: Feedback Loops</a>
- - <a href="">Chapter 14</a>
+ - <a href="https://github.com/JanMarcelKezmann/Building-ML-Pipelines-Notes/blob/main/Chapter%2014/Chapter_14_Data_Privacy_for_Machine_Learning.ipynb">Chapter 14</a>
 
 ## Installation and Setup
 
